@@ -1,0 +1,14 @@
+#CountLabel{
+    display: block;
+    font-size: 10em;
+    text-align: center;
+}
+
+#CountContainer{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px;
+    font-size: 1.5em;
+}
